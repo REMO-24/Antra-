@@ -1,0 +1,88 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+
+.fn {
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px 30px;
+    margin: 10px 10px;
+}
+
+.ln {
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px 30px;
+    margin: 10px 10px;
+}
+
+.mn {
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px 152px;
+    margin: 10px 10px;
+}
+
+.ea {
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px 152px;
+    margin: 10px 10px;
+}
+
+.p {
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px 30px;
+    margin: 10px 10px;
+}
+
+.cp {
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px 30px;
+    margin: 10px 10px;
+}
+
+
+.cb {
+    margin-top: 25px;
+}
+
+.sp {
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+.register {
+    background-color: rgb(15, 133, 207);
+    color: white;
+    padding: 2px 2px;
+}
+
+.terms {
+    color: rgb(19, 123, 158);
+}
+
+.btn1 {
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px 80px;
+    margin: 20px 10px;
+    background-color: rgb(15, 133, 207);
+    color: white;
+}
+
+.btn2 {
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px 80px;
+    margin: 20px 10px;
+    background-color: green;
+    color: white;
+}
